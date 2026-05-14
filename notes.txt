@@ -1,0 +1,12 @@
+CLR - COMMOM LANGUAGE LIBRARY - like a vitual machine that runs the code
+C# é pre compilada e transformada em bytecode. Executa o mesmo código em diversas plataformas 
+sem necessidade de recompilar. Executada CLR - Commom Language Runtime
+Assembly (DLL ou EXE) executável do projeto ou módulo do projeto
+Unicode table
+String é imutável
+Tipo valor vs Tipo referência
+
+- Camel Case: lastName (parâmetros de métodos, variáveis dentro de métodos)
+- Pascal Case: LastName (namespaces, classe, properties e métodos)
+- Padrão _lastName (atributos "internos" da classe)
+
