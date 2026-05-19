@@ -1,0 +1,15 @@
+/Users/rodrigomoraisaparecido/Documents/ProjetosEstudo/Treinamento/ProgramaAluno/bin/Debug/net10.0/ProgramaAluno
+/Users/rodrigomoraisaparecido/Documents/ProjetosEstudo/Treinamento/ProgramaAluno/bin/Debug/net10.0/ProgramaAluno.deps.json
+/Users/rodrigomoraisaparecido/Documents/ProjetosEstudo/Treinamento/ProgramaAluno/bin/Debug/net10.0/ProgramaAluno.runtimeconfig.json
+/Users/rodrigomoraisaparecido/Documents/ProjetosEstudo/Treinamento/ProgramaAluno/bin/Debug/net10.0/ProgramaAluno.dll
+/Users/rodrigomoraisaparecido/Documents/ProjetosEstudo/Treinamento/ProgramaAluno/bin/Debug/net10.0/ProgramaAluno.pdb
+/Users/rodrigomoraisaparecido/Documents/ProjetosEstudo/Treinamento/ProgramaAluno/obj/Debug/net10.0/ProgramaAluno.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rodrigomoraisaparecido/Documents/ProjetosEstudo/Treinamento/ProgramaAluno/obj/Debug/net10.0/ProgramaAluno.AssemblyInfoInputs.cache
+/Users/rodrigomoraisaparecido/Documents/ProjetosEstudo/Treinamento/ProgramaAluno/obj/Debug/net10.0/ProgramaAluno.AssemblyInfo.cs
+/Users/rodrigomoraisaparecido/Documents/ProjetosEstudo/Treinamento/ProgramaAluno/obj/Debug/net10.0/ProgramaAluno.csproj.CoreCompileInputs.cache
+/Users/rodrigomoraisaparecido/Documents/ProjetosEstudo/Treinamento/ProgramaAluno/obj/Debug/net10.0/ProgramaAluno.sourcelink.json
+/Users/rodrigomoraisaparecido/Documents/ProjetosEstudo/Treinamento/ProgramaAluno/obj/Debug/net10.0/ProgramaAluno.dll
+/Users/rodrigomoraisaparecido/Documents/ProjetosEstudo/Treinamento/ProgramaAluno/obj/Debug/net10.0/refint/ProgramaAluno.dll
+/Users/rodrigomoraisaparecido/Documents/ProjetosEstudo/Treinamento/ProgramaAluno/obj/Debug/net10.0/ProgramaAluno.pdb
+/Users/rodrigomoraisaparecido/Documents/ProjetosEstudo/Treinamento/ProgramaAluno/obj/Debug/net10.0/ProgramaAluno.genruntimeconfig.cache
+/Users/rodrigomoraisaparecido/Documents/ProjetosEstudo/Treinamento/ProgramaAluno/obj/Debug/net10.0/ref/ProgramaAluno.dll
