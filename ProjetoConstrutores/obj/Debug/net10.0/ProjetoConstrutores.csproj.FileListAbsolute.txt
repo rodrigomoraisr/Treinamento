@@ -1,0 +1,15 @@
+C:\Treinamento\ProjetoConstrutores\obj\Debug\net10.0\ProjetoConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Treinamento\ProjetoConstrutores\obj\Debug\net10.0\ProjetoConstrutores.AssemblyInfoInputs.cache
+C:\Treinamento\ProjetoConstrutores\obj\Debug\net10.0\ProjetoConstrutores.AssemblyInfo.cs
+C:\Treinamento\ProjetoConstrutores\obj\Debug\net10.0\ProjetoConstrutores.csproj.CoreCompileInputs.cache
+C:\Treinamento\ProjetoConstrutores\obj\Debug\net10.0\ProjetoConstrutores.sourcelink.json
+C:\Treinamento\ProjetoConstrutores\bin\Debug\net10.0\ProjetoConstrutores.exe
+C:\Treinamento\ProjetoConstrutores\bin\Debug\net10.0\ProjetoConstrutores.deps.json
+C:\Treinamento\ProjetoConstrutores\bin\Debug\net10.0\ProjetoConstrutores.runtimeconfig.json
+C:\Treinamento\ProjetoConstrutores\bin\Debug\net10.0\ProjetoConstrutores.dll
+C:\Treinamento\ProjetoConstrutores\bin\Debug\net10.0\ProjetoConstrutores.pdb
+C:\Treinamento\ProjetoConstrutores\obj\Debug\net10.0\ProjetoConstrutores.dll
+C:\Treinamento\ProjetoConstrutores\obj\Debug\net10.0\refint\ProjetoConstrutores.dll
+C:\Treinamento\ProjetoConstrutores\obj\Debug\net10.0\ProjetoConstrutores.pdb
+C:\Treinamento\ProjetoConstrutores\obj\Debug\net10.0\ProjetoConstrutores.genruntimeconfig.cache
+C:\Treinamento\ProjetoConstrutores\obj\Debug\net10.0\ref\ProjetoConstrutores.dll
