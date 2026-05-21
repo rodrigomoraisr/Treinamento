@@ -16,7 +16,7 @@ namespace ProjetoConstrutores
             Console.Write("Quantidade no estoque: ");
             int quantidade = int.Parse(Console.ReadLine());
 
-            Produto p1 = new Produto();
+            Produto p1 = new Produto();           
 
             /*Produto p2 = new Produto
             {
@@ -26,6 +26,8 @@ namespace ProjetoConstrutores
             };*/
 
             Produto p = new Produto(nome, preco, quantidade);
+
+             string propriedade = p.Nome;
 
             Console.WriteLine();
             Console.WriteLine("Dados do Produto: " + p);
