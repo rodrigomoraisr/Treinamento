@@ -37,3 +37,12 @@ if(acc3 is SavingsAccount)
     acc5.UpdateBalance();
     Console.WriteLine("Update!");
 }
+
+Account account1 = new Account(1001, "Alex", 500.0);
+Account account2 = new SavingsAccount(1002, "Anna", 500.0, 0.01);
+
+account1.Withdraw(10.0);
+account2.Withdraw(10.0);
+
+System.Console.WriteLine(account1.Balance);
+System.Console.WriteLine(account2.Balance);
